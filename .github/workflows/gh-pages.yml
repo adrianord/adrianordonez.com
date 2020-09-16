@@ -3,7 +3,7 @@ name: Hugo GitHub Pages
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
