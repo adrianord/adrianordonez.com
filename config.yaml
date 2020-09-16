@@ -4,6 +4,7 @@ author: Adrian Ordonez
 copyright: "© Adrian Ordonez"
 theme: archie
 enableInlineShortcodes: true
+googleAnalytics: UA-178118381-1
 
 params:
   social:
