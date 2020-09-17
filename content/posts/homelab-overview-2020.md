@@ -10,7 +10,7 @@ tags:
   - sysadmin
 ---
 
-<img src="https://f002.backblazeb2.com/file/blog-adrianordonez-com/homelab-overview-2020/DSC05512.JPG"
+<img src="https://f002.backblazeb2.com/file/blog-adrianordonez-com/homelab-overview-2020/rack_temp.jpg"
 title="Server Rack Full"
 height="1000"
 alt="Server Rack Full"/>
